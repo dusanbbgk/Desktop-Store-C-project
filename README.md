@@ -1,2 +1,2 @@
-# Desktop-Store-C-project
+# Desktop Store C# project
 Student project - Desktop app
